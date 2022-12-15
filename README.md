@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samil Nugay
 - 👀 I’m interested in Flutter, and Java
-- 🌱 I’m currently learning Dart,React Native
+- 🌱 I’m currently learning Flutter,React Native
 - 💞️ I’m looking to collaborate on Flutter
 
 <!---
