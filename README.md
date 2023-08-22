@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Şamil</h1>
 <h3 align="center">I am a Computer Engineering student at Izmir University of Economics</h3>
 
-- 🌱 I’m currently learning **Flutter,Dart and React**
+- 🌱 I’m currently learning **Flutter,Dart and NodeJS**
 
-- 👯 I’m looking to collaborate on **Flutter**
+- 👯 I’m looking to collaborate on **Flutter, and NodeJS**
 
 - 📫 How to reach me **samil_nugay@hotmail.com**
 
